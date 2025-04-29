@@ -38,17 +38,17 @@ ecommerce-basic/
 
 ## Instalación
 
-1. Cloné el repositorio o descárgalo.
-2. Copié el proyecto a la carpeta `htdocs` (en XAMPP) o la carpeta pública de tu servidor local.
+1. Cloné el repositorio.
+2. Copié el proyecto a la carpeta `htdocs` (en XAMPP).
 3. Creé la base de datos ejecutando el archivo `sql/database.sql` en phpMyAdmin.
-4. Configuré la conexión en `php/db.php` si es necesario (usuario/contraseña).
-5. Abrí `http://localhost/ecommerce-basic/index.html` en tu navegador.
+4. Configuré la conexión en `php/db.php` (usuario/contraseña).
+5. Abrí `http://localhost/ecommerce-basic/index.html` en el navegador.
 
 ## Uso
 
 - Explora productos.
 - Agrega productos al carrito.
-- Visualiza tu carrito de compras.
+- Visualiza el carrito de compras.
 
 ## Tecnologías usadas
 
